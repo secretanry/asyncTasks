@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-func TestCalculateSqrs(t *testing.T) {
+func TestTask2(t *testing.T) {
 	values := []int{2, 4, 6, 8, 10}
 
 	oldStdout := os.Stdout
