@@ -7,7 +7,7 @@ import (
 	"testing"
 )
 
-func TestPipeline(t *testing.T) {
+func TestTask9(t *testing.T) {
 	values := []int{1, 2, 3, 4, 5}
 	oldStdout := os.Stdout
 	r, w, _ := os.Pipe()

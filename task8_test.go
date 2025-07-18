@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestSetBitInt64(t *testing.T) {
+func TestTask8(t *testing.T) {
 	tests := []struct {
 		n   int64
 		i   uint
